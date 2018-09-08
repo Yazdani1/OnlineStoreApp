@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1015640863981",
+    "firebase_url": "https://online-store-app-8053c.firebaseio.com",
+    "project_id": "online-store-app-8053c",
+    "storage_bucket": "online-store-app-8053c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015640863981:android:3ce0747e3d0108f8",
+        "android_client_info": {
+          "package_name": "yazdaniscodelab.onlinestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015640863981-eboboa37rohq5ip3v0najadcttrm56nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_-ceOqUTMInb02dbi2H_mTGu0lgNC3Ds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
